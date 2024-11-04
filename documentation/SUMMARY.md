@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Privacy Policy](PRIVACY.md)
 * [Discord Community](https://flr.rf.gd/discord)
 
 ## Getting Started
