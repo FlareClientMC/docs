@@ -1,4 +1,10 @@
-**Privacy Policy for Flare Modpack**
+---
+description: >-
+  Flare is committed to protecting your privacy and ensuring a secure and enjoyable experience with our modpack.
+icon: lock
+---
+
+# Privacy Policy
 
 _Last Updated: November 04, 2024_
 
