@@ -57,7 +57,7 @@ Flare does not sell, rent, or disclose your data to third parties. The informati
 ---
 
 ### 7. Your Rights and Choices
-You have the right to access, update, correct, or delete the information we hold about you. Additionally, you may withdraw your consent at any time. To exercise these rights, please contact us at `[support email address]`.
+You have the right to access, update, correct, or delete the information we hold about you. Additionally, you may withdraw your consent at any time. To exercise these rights, please contact us at [hello@flare.uk.to](mailto:hello@flare.uk.to)
 
 ---
 
@@ -67,7 +67,7 @@ This Privacy Policy may be updated periodically to reflect changes in our practi
 ---
 
 ### 9. Contact Us
-If you have any questions or concerns about this Privacy Policy or the information we collect, feel free to reach out to us at `[support email address]`.
+If you have any questions or concerns about this Privacy Policy or the information we collect, feel free to reach out to us at [hello@flare.uk.to](mailto:hello@flare.uk.to).
 
 ---
 
