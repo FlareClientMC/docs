@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore Flare’s customization options, including performance optimization,
+  interface tweaks, mod settings, and profile management, allowing you to tailor
+  the modpack to your needs.
+---
+
 # Configure Flare
 
 Now that you have Flare installed, it’s time to tailor the modpack to suit your needs! Flare provides a range of customization options that allow you to optimize performance, personalize the interface, and configure individual mods to enhance your gameplay experience. This guide will help you navigate these settings, making Flare work best for your device and playstyle.
@@ -46,6 +53,6 @@ Profiles are a great way to organize settings for different activities, such as 
 
 ***
 
-For those who want to go further, check out [**Configuration**](broken-reference) to dive into in-depth adjustments that allow for even more control. With these settings, Flare empowers you to create a Minecraft experience that’s optimized, personalized, and truly yours.
+For those who want to go further, check out [**Configuration**](broken-reference/) to dive into in-depth adjustments that allow for even more control. With these settings, Flare empowers you to create a Minecraft experience that’s optimized, personalized, and truly yours.
 
 Enjoy crafting your perfect setup with Flare! ✨

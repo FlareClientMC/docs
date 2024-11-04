@@ -1,3 +1,10 @@
+---
+description: >-
+  Detailed instructions on installing Flare through various methods: Modrinth,
+  PojavLauncher for mobile devices, and manual installation for those who prefer
+  more control.
+---
+
 # Installing Flare
 
 Follow these steps to install Flare, a Minecraft Fabric modpack optimized for low-end devices and mobile users. Flare can be installed from **Modrinth** for ease, or manually if you prefer. This guide also includes specific instructions for mobile players using **PojavLauncher**.
