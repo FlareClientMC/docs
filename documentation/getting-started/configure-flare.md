@@ -2,7 +2,7 @@
 
 Now that you have Flare installed, it’s time to tailor the modpack to suit your needs! Flare provides a range of customization options that allow you to optimize performance, personalize the interface, and configure individual mods to enhance your gameplay experience. This guide will help you navigate these settings, making Flare work best for your device and playstyle.
 
-### Configuration Options
+## Configuration Options
 
 #### 🏎️ Performance Settings
 
