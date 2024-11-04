@@ -83,7 +83,8 @@ You have the right to:
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 **Email**: [hello@flare.uk.to](mailto:hello@flare.uk.to)
-**Website**: [https://flare.uk.to]
+
+**Website**: [https://flare.uk.to](https://flare.uk.to/)
 
 ---
 
