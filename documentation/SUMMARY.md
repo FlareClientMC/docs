@@ -1,11 +1,23 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## Installation&#x20;
-
-* [Page 1](installation/page-1.md)
+* [Discord Community](https://flr.rf.gd/discord)
 
 ## Getting Started
 
-* [Page 2](getting-started/page-2.md)
+* [Installing Flare](getting-started/installing-flare.md)
+* [Configure Flare](getting-started/configure-flare.md)
+* [Troubleshooting](getting-started/troubleshooting.md)
+
+## Installation&#x20;
+
+* [Modrinth](installation/modrinth.md)
+* [PojavLauncher](installation/pojavlauncher.md)
+* [Manual Installation](installation/manual-installation.md)
+
+## Configuration
+
+* [Performance Settings](configuration/performance-settings.md)
+* [Interface Customization](configuration/interface-customization.md)
+* [Manage Profiles](configuration/manage-profiles.md)
+* [Mods Settings](configuration/mods-settings.md)

@@ -1,5 +1,8 @@
 ---
-description: Flare si
+description: >-
+  Flare is a newly released Minecraft Fabric modpack which focuses on both
+  performance and improving user interface.
+icon: hand-wave
 ---
 
 # Introduction
@@ -9,17 +12,17 @@ Welcome to **Flare**, a Minecraft Fabric modpack designed to enhance your gaming
 While we don’t aim to compete directly with popular clients like **Lunar Client**, **Feather Client**, or **Labymod**, Flare is a lightweight option that brings a polished, modern look to Minecraft, especially for players on less powerful devices.\
 
 
-### Installation
+### Getting Started
 
-Learn how to download and install Flare via Modrinth, manually or in PojavLauncher.
+A guide you through the initial steps to set up Flare and enjoy a refined Minecraft experience.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-### Getting Started!
+### Installation
 
-After installing Flare on your device, a guide you through the initial steps to set up Flare and enjoy a refined Minecraft experience.
+Learn how to download and install Flare via Modrinth, manually or in PojavLauncher.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
