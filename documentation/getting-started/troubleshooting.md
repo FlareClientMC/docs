@@ -6,13 +6,11 @@ description: >-
 
 # Troubleshooting
 
-## Troubleshooting
+Experiencing issues while installing or using the Flare modpack? No need to worry! Our community is ready to assist you. Join us on Discord to connect with fellow players, share tips, and get support. Click here to join: [Discord Link](YOUR_DISCORD_INVITE_LINK).
 
-Experiencing issues while installing or using the Flare modpack? No need to worry! Our community is ready to assist you. Join us on Discord to connect with fellow players, share tips, and get support. Click here to join: Discord Link.
+## Common Issues
 
-### Common Issues
-
-**🚀 Game Crashes on Launch**
+### 🚀 Game Crashes on Launch
 
 {% tabs %}
 {% tab title="Possible Causes" %}
@@ -26,46 +24,71 @@ Experiencing issues while installing or using the Flare modpack? No need to worr
 {% endtab %}
 {% endtabs %}
 
-**⚠️ Mod Not Loading**
+### ⚠️ Mod Not Loading
 
-* **Possible Causes**:
-  * Incorrect installation of the modpack.
-  * Missing dependencies.
-* **Solution**:
-  * Verify that all files were extracted correctly into the `mods` folder.
-  * Make sure all required mods are installed as listed in the documentation.
+{% tabs %}
+{% tab title="Possible Causes" %}
+1. Incorrect installation of the modpack.
+2. Missing dependencies.
+{% endtab %}
 
-**🌍 World Loading Issues**
+{% tab title="Solution" %}
+* Verify that all files were extracted correctly into the `mods` folder.
+* Make sure all required mods are installed as listed in the documentation.
+{% endtab %}
+{% endtabs %}
 
-* **Possible Causes**:
-  * Corrupted world files.
-  * Incompatible mods.
-* **Solution**:
-  * Try loading a new world to see if the issue persists.
-  * Remove recently added mods and attempt to load the world again.
+### 🌍 World Loading Issues
 
-**🖼️ Missing Textures or GUI Issues**
+{% tabs %}
+{% tab title="Possible Causes" %}
+1. Corrupted world files.
+2. Incompatible mods.
+{% endtab %}
 
-* **Possible Causes**:
-  * Issues with resource packs or mod compatibility.
-* **Solution**:
-  * Check your resource pack settings and ensure the appropriate pack is selected.
-  * Disable any conflicting mods to see if that resolves the issue.
+{% tab title="Solution" %}
+* Try loading a new world to see if the issue persists.
+* Remove recently added mods and attempt to load the world again.
+{% endtab %}
+{% endtabs %}
 
-**🔒 Login Issues with Cracked Minecraft**
+### 🖼️ Missing Textures or GUI Issues
 
-* **Possible Causes**:
-  * Incorrect login credentials.
-* **Solution**:
-  * Ensure you are using a valid username and that your game is updated to the latest version.
+{% tabs %}
+{% tab title="Possible Causes" %}
+1. Issues with resource packs or mod compatibility.
+{% endtab %}
 
-**⚡ Performance Problems**
+{% tab title="Solution" %}
+* Check your resource pack settings and ensure the appropriate pack is selected.
+* Disable any conflicting mods to see if that resolves the issue.
+{% endtab %}
+{% endtabs %}
 
-* **Possible Causes**:
-  * High graphic settings.
-  * Insufficient hardware.
-* **Solution**:
-  * Lower your graphic settings in the Minecraft options menu.
-  * Consider closing background applications to free up resources.
+### 🔒 Login Issues with Cracked Minecraft
 
-If you're still having trouble after trying these solutions, please reach out on our Discord for further assistance! We’re here to help you enjoy the best experience with Flare. 🌟
+{% tabs %}
+{% tab title="Possible Causes" %}
+1. Incorrect login credentials.
+{% endtab %}
+
+{% tab title="Solution" %}
+* Ensure you are using a valid username and that your game is updated to the latest version.
+{% endtab %}
+{% endtabs %}
+
+### ⚡ Performance Problems
+
+{% tabs %}
+{% tab title="Possible Causes" %}
+1. High graphic settings.
+2. Insufficient hardware.
+{% endtab %}
+
+{% tab title="Solution" %}
+* Lower your graphic settings in the Minecraft options menu.
+* Consider closing background applications to free up resources.
+{% endtab %}
+{% endtabs %}
+
+If you're still having trouble after trying these solutions, please reach out on our [Discord](YOUR_DISCORD_INVITE_LINK) for further assistance! We’re here to help you enjoy the best experience with Flare. 🌟
