@@ -4,7 +4,7 @@ description: >-
   simple and streamlined setup.
 ---
 
-# Installing Flare from Modrinth
+# Modrinth
 
 Welcome to the installation guide for the Flare modpack! This page provides clear instructions on how to install Flare using the Modrinth platform, making the process quick and straightforward.
 
@@ -31,4 +31,4 @@ If your launcher does not support the Browse Modrinth feature or if you prefer t
 
 ## Enjoy Your Experience!
 
-Congratulations! You’ve successfully installed the Flare modpack. Now you’re ready to dive into a revamped Minecraft experience filled with exciting new features and optimizations. If you encounter any issues or have questions, feel free to reach out to our community on Discord for assistance. Happy crafting! ✨
+Congratulations! You’ve successfully installed the Flare modpack. Now you’re ready to dive into a revamped Minecraft experience filled with exciting new features and optimizations. If you encounter any issues or have questions, feel free to reach out to our community on [Discord](https://flr.rf.gd/discord) for assistance.
