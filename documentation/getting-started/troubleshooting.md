@@ -91,4 +91,4 @@ Experiencing issues while installing or using the Flare modpack? No need to worr
 {% endtab %}
 {% endtabs %}
 
-If you're still having trouble after trying these solutions, please reach out on our [Discord](YOUR_DISCORD_INVITE_LINK) for further assistance! We’re here to help you enjoy the best experience with Flare. 🌟
+If you're still having trouble after trying these solutions, please reach out on our [Discord](https://flr.rf.gd/discord) for further assistance! We’re here to help you enjoy the best experience with Flare. 🌟
