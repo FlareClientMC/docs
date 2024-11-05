@@ -6,7 +6,7 @@ description: >-
 
 # Troubleshooting
 
-Experiencing issues while installing or using the Flare modpack? No need to worry! Our community is ready to assist you. Join us on Discord to connect with fellow players, share tips, and get support. Click here to join: [Discord Link](YOUR_DISCORD_INVITE_LINK).
+Experiencing issues while installing or using the Flare modpack? No need to worry! Our community is ready to assist you. Join us on Discord to connect with fellow players, share tips, and get support. Click here to join: [Discord Link](YOUR\_DISCORD\_INVITE\_LINK/).
 
 ## Common Issues
 
@@ -56,12 +56,11 @@ Experiencing issues while installing or using the Flare modpack? No need to worr
 
 {% tabs %}
 {% tab title="Possible Causes" %}
-1. Issues with resource packs or mod compatibility.
+1. Flare's assets not loading.
 {% endtab %}
 
 {% tab title="Solution" %}
-* Check your resource pack settings and ensure the appropriate pack is selected.
-* Disable any conflicting mods to see if that resolves the issue.
+* Check your internet connection. Make sure it's working fine.
 {% endtab %}
 {% endtabs %}
 
