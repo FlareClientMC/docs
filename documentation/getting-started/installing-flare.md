@@ -35,11 +35,13 @@ For mobile users on **PojavLauncher**, see the detailed guide here:
 
 If you prefer to install Flare manually, please visit:
 
+{% hint style="warning" %}
+Installing Flare manually is NOT recommended nor we support it, now.
+{% endhint %}
+
 {% content-ref url="../installation/manual-installation.md" %}
 [manual-installation.md](../installation/manual-installation.md)
 {% endcontent-ref %}
-
-> **Reminder**: Manual installation gives you more control but requires downloading and managing each mod individually.
 
 ***
 

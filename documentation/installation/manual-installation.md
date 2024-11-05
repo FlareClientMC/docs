@@ -6,3 +6,7 @@ description: >-
 
 # Manual Installation
 
+{% hint style="danger" %}
+Installing Flare manually is NOT recommended nor we support it, now.
+{% endhint %}
+
