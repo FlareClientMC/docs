@@ -1,11 +1,29 @@
 ---
+icon: hand-wave
 description: >-
   Flare is a newly released Minecraft Fabric modpack which focuses on both
   performance and improving user interface.
-icon: hand-wave
+cover: .gitbook/assets/Slide 16_9 - 2.png
+coverY: 1
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Introduction
+
+<figure><img src=".gitbook/assets/Frame 5.png" alt=""><figcaption></figcaption></figure>
 
 Welcome to **Flare**, a Minecraft Fabric modpack designed to enhance your gaming experience with improved performance, a refined interface, and fixes for common UI issues. Flare is created to be an excellent alternative for low-end devices and mobile users, particularly those using **PojavLauncher**, an unofficial Minecraft launcher for mobile devices.
 
