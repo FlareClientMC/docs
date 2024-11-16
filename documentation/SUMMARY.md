@@ -10,7 +10,7 @@
 * [Configure Flare](getting-started/configure-flare.md)
 * [Troubleshooting](getting-started/troubleshooting.md)
 
-## Installation&#x20;
+## Installation
 
 * [Modrinth](installation/modrinth.md)
 * [PojavLauncher](installation/pojavlauncher.md)
@@ -22,3 +22,7 @@
 * [Interface Customization](configuration/interface-customization.md)
 * [Manage Profiles](configuration/manage-profiles.md)
 * [Mods Settings](configuration/mods-settings.md)
+
+***
+
+* [Community Rules](community-rules.md)
